@@ -2,11 +2,11 @@
 
 | Field | Value |
 |-------|-------|
-| **Engine Version** | Godot 4.6 |
-| **Installed at pin time** | NOT DETERMINED — `/setup-engine` §3 probes the installed editor and records the result here. |
-| **Release Date** | January 2026 |
-| **Project Pinned** | 2026-02-12 |
-| **Last Docs Verified** | 2026-02-12 |
+| **Engine Version** | Godot 4.7.2 |
+| **Installed at pin time** | 4.7.2.stable (verified) |
+| **Release Date** | NOT SOURCEABLE |
+| **Project Pinned** | 2026-10-13 |
+| **Last Docs Verified** | 2026-10-13 |
 | **LLM Knowledge Cutoff** | May 2025 |
 
 ## Knowledge Gap Warning
@@ -31,6 +31,7 @@ version-qualified claim** — `NOT DETERMINED` means the gap is unknown, not abs
 | 4.4 | ~Mid 2025 | MEDIUM | Jolt physics option, FileAccess return types, shader texture type changes |
 | 4.5 | ~Late 2025 | HIGH | Accessibility (AccessKit), variadic args, @abstract, shader baker, SMAA |
 | 4.6 | Jan 2026 | HIGH | Jolt default, glow rework, D3D12 default on Windows, IK restored |
+| 4.7 | 2026 | HIGH | NOT SOURCEABLE — beyond reference docs; update via `/setup-engine refresh` |
 
 ## Verified Sources
 
