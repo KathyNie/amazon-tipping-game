@@ -9,6 +9,9 @@
 Thumbs.db
 Desktop.ini
 
+# === Reference Materials (large, not game code) ===
+materials/
+
 # === Claude Code Local ===
 .claude/settings.local.json
 CLAUDE.local.md

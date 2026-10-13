@@ -9,7 +9,8 @@
     "allow": [
       "Bash(dir *)",
       "Bash(python -m pytest *)",
-      "Bash(py -m pytest *)"
+      "Bash(py -m pytest *)",
+      "Bash(bash *yaml-helper.sh*)"
     ],
     "deny": [
       "Bash(rm -rf *)",
